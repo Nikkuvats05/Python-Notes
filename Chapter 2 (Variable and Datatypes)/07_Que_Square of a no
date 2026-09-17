@@ -1,0 +1,6 @@
+a = int(input("enter the value of no : "))
+print("square of the given no is = ",a**2)
+
+print("square of the given no is = ",a*a)
+
+# print("square of the given no is = ",a^a) # '^' for power ,Not valid in python
