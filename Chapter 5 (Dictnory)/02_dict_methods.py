@@ -5,6 +5,7 @@ marks = {
    90 : "Mohan"
 }
 
+print ( len(marks))
 print(marks.items()) 
 
 print(marks.keys())
