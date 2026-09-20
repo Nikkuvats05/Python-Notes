@@ -20,3 +20,5 @@ print(list1)
 
 list1.remove(4444)
 print(list1) 
+
+print(len(list1))
