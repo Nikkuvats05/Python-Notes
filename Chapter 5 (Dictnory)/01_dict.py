@@ -1,3 +1,4 @@
+d = {} #Denotes empty dictionary
 marks = { 
     "Nikhil": 100,  
    "Subham" : 56,
